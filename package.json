@@ -1,0 +1,23 @@
+{
+  "name": "figcaption",
+  "version": "1.0.0",
+  "description": "Redactor plugin to add figcaption to images on edit.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Redactor",
+    "Plugin",
+    "Image",
+    "Caption",
+    "Figcaption"
+  ],
+  "author": "Darren Jaworski",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.1"
+  }
+}
